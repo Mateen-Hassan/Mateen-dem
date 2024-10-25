@@ -1,3 +1,3 @@
 # Mateen-dem
-This is my first Github repository. 
-Author - Mateen Hassan
+This is my first GitHub repository. 
+Author - Mateen Hassan.
